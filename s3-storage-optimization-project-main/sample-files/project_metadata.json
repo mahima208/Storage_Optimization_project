@@ -1,0 +1,6 @@
+{
+  "project": "Amazon S3 Storage Lens for Storage Optimization",
+  "region": "us-east-1",
+  "purpose": "Analyze S3 storage usage and identify optimization opportunities",
+  "sample_objects": 5
+}

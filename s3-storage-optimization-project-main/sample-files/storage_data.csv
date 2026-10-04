@@ -1,0 +1,6 @@
+File_ID,File_Name,Category,Age_Days,Storage_Class
+1,report.pdf,Documents,10,STANDARD
+2,college_project.pdf,Documents,45,STANDARD
+3,backup.zip,Backups,120,STANDARD
+4,image.jpg,Images,70,STANDARD
+5,sample_video.mp4,Videos,150,STANDARD
